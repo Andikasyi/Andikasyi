@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andikasyi
+- 👋 Hi, I’m @Andikasyifa
 - 👀 I’m interested in game maker
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on ...
